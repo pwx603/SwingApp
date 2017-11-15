@@ -8,7 +8,7 @@ public class App {
 
 			@Override
 			public void run() {
-				new MainFrame("Hello World");
+				new MainFrame();
 
 			
 			}
